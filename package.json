@@ -1,0 +1,27 @@
+{
+  "name": "torrent-config-util",
+  "version": "1.0.0",
+  "description": "Transfer existing tv config data to new web service",
+  "main": "app.js",
+  "scripts": {
+    "go": "clear && node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvonranger/torrent-config-util.git"
+  },
+  "author": "Daniel Ranger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danvonranger/torrent-config-util/issues"
+  },
+  "homepage": "https://github.com/danvonranger/torrent-config-util#readme",
+  "devDependencies": {
+    "xml2js": "^0.4.19",
+    "xml2js-parser": "^1.1.1",
+    "xmldom": "^0.1.27"
+  },
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
