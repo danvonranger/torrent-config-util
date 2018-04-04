@@ -1,662 +1,668 @@
-<tvseries>
+
+	<tvseries>
 		<series name="12 Monkeys">
 			<episodes>1-*,2-*,3-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:15</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:17:52</lastUpdateCheck>
 			<lastSeriesDownloaded>22/05/2017 18:04:14</lastSeriesDownloaded>
 		</series>
 		<series name="A Haunting">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-1,9-2,9-3,9-4,9-5,9-6,9-7,9-8,9-9,9-10,9-11,9-12,10-3</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:19</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:00</lastUpdateCheck>
 			<lastSeriesDownloaded>02/07/2017 07:50:37</lastSeriesDownloaded>
 		</series>
 		<series name="Aftermath">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:22</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:03</lastUpdateCheck>
 			<lastSeriesDownloaded>13/06/2017 18:52:12</lastSeriesDownloaded>
 		</series>	
 		<series name="Agent X">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:24</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:09</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="American Pickers">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-*,10-*,11-*,12-*,13-*,14-*,15-*,16-*,17-*,18-1,18-2,18-3,18-4,18-5,18-6,18-7,18-8,18-9,18-10,18-11,18-12,18-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:27</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:12</lastUpdateCheck>
 			<lastSeriesDownloaded>13/03/2018 14:30:37</lastSeriesDownloaded>
 		</series>
 		<series name="Ancient Aliens">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,11-*,12-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:30</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:14</lastUpdateCheck>
 			<lastSeriesDownloaded>16/09/2017 07:30:15</lastSeriesDownloaded>
 		</series>
 		<series name="Atlantis 2013">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:32</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:17</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Ax Men">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:34</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:23</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Backstrom">
 			<episodes>1-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:39</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:25</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Bates Motel">
 			<episodes>1-*,2-*,3-*,4-*,5-1,5-2,5-3,5-4,5-5,5-6,5-7,5-8,5-9,5-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:44</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:28</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Better Call Saul">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:47</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:31</lastUpdateCheck>
 			<lastSeriesDownloaded>20/06/2017 17:44:32</lastSeriesDownloaded>
 		</series>
 		<series name="Between">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,2-1,2-2,2-3,2-4,2-5,2-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:30:49</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:33</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Black Sails">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:00</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:35</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Blindspot">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13,2-14,2-15,2-16,2-17,2-18,2-19,2-20,2-21,2-22,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,3-15,3-16,3-17</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:04</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:18:38</lastUpdateCheck>
 			<lastSeriesDownloaded>31/03/2018 13:30:49</lastSeriesDownloaded>
+		</series>
+		<series name="Celebrity Ghost Stories">
+			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,3-15,3-16,3-17,4-1,4-6,4-7,4-8,4-11,4-15,4-17,4-23,4-24,5-2,5-5,5-6,5-8,5-16</episodes>
+			<lastUpdateCheck>04/04/2018 17:19:26</lastUpdateCheck>
+			<lastSeriesDownloaded>04/04/2018 17:19:26</lastSeriesDownloaded>
 		</series>
 		<series name="Chance">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:08</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:29</lastUpdateCheck>
 			<lastSeriesDownloaded>29/11/2017 17:13:59</lastSeriesDownloaded>
 		</series>
 		<series name="Cleverman">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,2-1,2-2,2-3,2-4,2-5,2-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:11</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:33</lastUpdateCheck>
 			<lastSeriesDownloaded>04/08/2017 20:40:49</lastSeriesDownloaded>
 		</series>
 		<series name="Constantine">
 			<episodes>1-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:14</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:35</lastUpdateCheck>
 			<lastSeriesDownloaded>07/06/2017 18:18:08</lastSeriesDownloaded>
 		</series>
 		<series name="Containment">
 			<episodes>1-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:18</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:40</lastUpdateCheck>
 			<lastSeriesDownloaded>07/06/2017 18:18:08</lastSeriesDownloaded>
 		</series>
 		<series name="Countdown to Murder">
 			<episodes>1-2,1-3,1-4,1-5,1-6,2-1,2-2,2-4,2-5,2-6,2-7,3-1</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:20</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:43</lastUpdateCheck>
 			<lastSeriesDownloaded>20/10/2017 17:35:58</lastSeriesDownloaded>
 		</series>
 		<series name="Crossbones">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:23</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:47</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Da Vincis Demons">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:29</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:50</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Damien">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:31</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:54</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Dark Matter">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:34</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:56</lastUpdateCheck>
 			<lastSeriesDownloaded>26/08/2017 08:36:48</lastSeriesDownloaded>
 		</series>
 		<series name="Dark Matters Twisted But True">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:37</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:19:58</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Defiance">
 			<episodes>1-*,2-*,3-1,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:40</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:01</lastUpdateCheck>
 			<lastSeriesDownloaded>07/06/2017 18:20:59</lastSeriesDownloaded>
 		</series>
 		<series name="Dickensian">
 			<episodes>1-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:42</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:03</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Dimension 404">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:45</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:05</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Dominion">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:53</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:07</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Elementary">
 			<episodes>1-*,2-*,3-*,4-*,5-1,5-2,5-3,5-4,5-5,5-6,5-7,5-8,5-9,5-10,5-11,5-12,5-13,5-14,5-15,5-16,5-17,5-18,5-19,5-20,5-21,5-22,5-23,5-24</episodes>
-			<lastUpdateCheck>02/04/2018 17:31:57</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:12</lastUpdateCheck>
 			<lastSeriesDownloaded>22/05/2017 18:16:46</lastSeriesDownloaded>
 		</series>
 		<series name="Evil Things">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:00</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:15</lastUpdateCheck>
 			<lastSeriesDownloaded>29/10/2017 07:08:58</lastSeriesDownloaded>
 		</series>
 		<series name="Expedition Unknown">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:03</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:18</lastUpdateCheck>
 			<lastSeriesDownloaded>03/03/2018 08:31:12</lastSeriesDownloaded>
 		</series>
 		<series name="Expedition Unknown Hunt for Extraterrestrials">
 			<episodes>1-1,1-2,1-3,1-4</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:05</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:21</lastUpdateCheck>
 			<lastSeriesDownloaded>06/12/2017 20:32:25</lastSeriesDownloaded>
 		</series>
 		<series name="Extant">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:08</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:23</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Extinct US">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:11</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:28</lastUpdateCheck>
 			<lastSeriesDownloaded>20/11/2017 16:59:17</lastSeriesDownloaded>
 		</series>
 		<series name="Falling Skies">
 			<episodes>1-*,2-*,3-*,4-*,5-1,5-2,5-3,5-4,5-5,5-6,5-7,5-8,5-9,5-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:28</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:30</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Falling Waters">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:31</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:33</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Fear The Walking Dead">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13,2-14,2-15,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,3-15,3-16</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:33</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:39</lastUpdateCheck>
 			<lastSeriesDownloaded>16/10/2017 17:42:16</lastSeriesDownloaded>
 		</series>
 		<series name="Forever US">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13,1-14,1-15,1-16,1-17,1-18,1-19,1-20,1-21,1-22</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:36</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:41</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Game of Thrones">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-1,6-2,6-3,6-4,6-5,6-6,6-7,6-8,6-9,6-10,7-1,7-2,7-3,7-4,7-5,7-6,7-7</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:39</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:44</lastUpdateCheck>
 			<lastSeriesDownloaded>16/08/2017 17:34:27</lastSeriesDownloaded>
 		</series>
 		<series name="Glitch">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,2-1,2-2,2-3,2-4,2-5,2-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:50</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:49</lastUpdateCheck>
 			<lastSeriesDownloaded>22/10/2017 15:49:23</lastSeriesDownloaded>
 		</series>
 		<series name="Gold Rush">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-1,8-2,8-3,8-4,8-5,8-6,8-7,8-8,8-9,8-10,8-11,8-12,8-13,8-14,8-15,8-16,8-17,8-18,8-19,8-20,8-21,8-22</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:54</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:51</lastUpdateCheck>
 			<lastSeriesDownloaded>31/03/2018 13:31:59</lastSeriesDownloaded>
 		</series>
 		<series name="Gravity Falls">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13,2-14,2-15,2-16,2-17,2-18,2-19,2-20</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:56</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:53</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Grimm">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-1,6-2,6-3,6-4,6-5,6-6,6-7,6-8,6-9,6-10,6-11,6-12,6-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:32:59</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:20:58</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Hannibal">
 			<episodes>1-*,2-*,3-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:02</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:09</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 10:16:48</lastSeriesDownloaded>
 		</series>
 		<series name="Haunted History">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-10,1-12,1-13,1-14,2-1,2-3,2-4,2-5,2-7,2-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:08</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:14</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 10:17:39</lastSeriesDownloaded>
 		</series>
 		<series name="Heroes Reborn">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:10</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:17</lastUpdateCheck>
 			<lastSeriesDownloaded>09/06/2017 19:14:52</lastSeriesDownloaded>
 		</series>
 		<series name="Hunting Hitler">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:13</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:20</lastUpdateCheck>
 			<lastSeriesDownloaded>22/02/2018 18:00:16</lastSeriesDownloaded>
 		</series>
 		<series name="Ice Road Truckers">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-*,10-*,11-1,11-2,11-3,11-4,11-5,11-6,11-7,11-8,11-9,11-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:22</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:24</lastUpdateCheck>
 			<lastSeriesDownloaded>10/11/2017 17:22:56</lastSeriesDownloaded>
 		</series>
 		<series name="Incorporated">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:25</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:27</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 10:18:38</lastSeriesDownloaded>
 		</series>
 		<series name="Jekyll and Hyde">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:29</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:31</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Jonathan Strange and Mr Norrell">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:32</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:49</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Killjoys">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:34</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:52</lastUpdateCheck>
 			<lastSeriesDownloaded>02/09/2017 09:02:45</lastSeriesDownloaded>
 		</series>
 		<series name="Krypton">
 			<episodes>1-1,1-2</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:37</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:54</lastUpdateCheck>
 			<lastSeriesDownloaded>29/03/2018 18:45:33</lastSeriesDownloaded>
 		</series>
 		<series name="Limitless">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13,1-14,1-15,1-16,1-17,1-18,1-19,1-20,1-21,1-22</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:40</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:21:57</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Mars">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:43</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:00</lastUpdateCheck>
 			<lastSeriesDownloaded>25/05/2017 18:06:13</lastSeriesDownloaded>
 		</series>
 		<series name="Marvels The Punisher">
 			<episodes>1-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:45</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:08</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Minority Report">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:50</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:12</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Moonshiners">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-1,7-2,7-3,7-4,7-5,7-6,7-7,7-8,7-9,7-10,7-11,7-12,7-13,7-14,7-15,7-16,7-17,7-18</episodes>
-			<lastUpdateCheck>02/04/2018 17:33:54</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:15</lastUpdateCheck>
 			<lastSeriesDownloaded>28/03/2018 17:32:41</lastSeriesDownloaded>
 		</series>
 		<series name="Mr Robot">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:00</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:21</lastUpdateCheck>
 			<lastSeriesDownloaded>15/12/2017 17:20:15</lastSeriesDownloaded>
 		</series>
 		<series name="Murder Maps">
 			<episodes>1-3,1-6,1-8,1-9,2-2,2-3,2-4,2-5,3-1,3-2,3-3,3-4</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:04</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:23</lastUpdateCheck>
 			<lastSeriesDownloaded>02/10/2017 18:56:40</lastSeriesDownloaded>
 		</series>
 		<series name="My Ghost Story">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-1,6-2,6-3,6-4,6-5,6-6,6-7,6-8,6-9,6-11,6-12,6-13,6-14,6-15,6-16,6-17,6-18,6-19,6-20,6-21</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:06</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:26</lastUpdateCheck>
 			<lastSeriesDownloaded>09/09/2017 07:32:29</lastSeriesDownloaded>
 		</series>
 		<series name="My Haunted House">
 			<episodes>1-1,1-2,1-3,1-23,1-28,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,3-15,3-16,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:10</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:29</lastUpdateCheck>
 			<lastSeriesDownloaded>03/06/2017 07:37:56</lastSeriesDownloaded>
 		</series>
 		<series name="Olympus">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:13</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:32</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Outcast">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:16</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:34</lastUpdateCheck>
 			<lastSeriesDownloaded>08/06/2017 18:28:03</lastSeriesDownloaded>
 		</series>
 		<series name="Outlander">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,4-7</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:19</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:36</lastUpdateCheck>
 			<lastSeriesDownloaded>10/12/2017 11:31:53</lastSeriesDownloaded>
 		</series>
 		<series name="Paranormal Survivor">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:23</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:39</lastUpdateCheck>
 			<lastSeriesDownloaded>20/08/2017 17:21:42</lastSeriesDownloaded>
 		</series>
 		<series name="Paranormal Witness">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,3-15,3-16,3-17,3-18,3-19,3-20,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13,5-1,5-2,5-3,5-4,5-5,5-6,5-7,5-8,5-9,5-10,5-11,5-12,5-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:25</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:41</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>		
 		<series name="Peaky Blinders">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:28</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:44</lastUpdateCheck>
 			<lastSeriesDownloaded>25/01/2018 18:08:05</lastSeriesDownloaded>
 		</series>
 		<series name="Penny Dreadful">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:30</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:47</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="People of Earth">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:36</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:49</lastUpdateCheck>
 			<lastSeriesDownloaded>26/09/2017 18:01:33</lastSeriesDownloaded>
 		</series>
 		<series name="Preacher">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:39</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:22:51</lastUpdateCheck>
 			<lastSeriesDownloaded>10/09/2017 20:29:07</lastSeriesDownloaded>
 		</series>
 		<series name="Proof">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:41</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:11</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Quacks">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:43</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:14</lastUpdateCheck>
 			<lastSeriesDownloaded>17/08/2017 18:33:10</lastSeriesDownloaded>
 		</series>
 		<series name="Ransom">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:46</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:17</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 10:26:43</lastSeriesDownloaded>
 		</series>
 		<series name="Rectify">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:49</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:20</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 10:27:13</lastSeriesDownloaded>
 		</series>
 		<series name="Red Dwarf">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-*,10-*,11-*,12-1,12-2,12-3,12-4,12-5,12-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:52</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:23</lastUpdateCheck>
 			<lastSeriesDownloaded>10/11/2017 17:28:55</lastSeriesDownloaded>
 		</series>
 		<series name="Rick and Morty">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,7-1</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:55</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:31</lastUpdateCheck>
 			<lastSeriesDownloaded>30/11/2017 20:31:48</lastSeriesDownloaded>
 		</series>
 		<series name="Ripper Street">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,5-1,5-2,5-3,5-4,5-5,5-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:34:58</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:33</lastUpdateCheck>
 			<lastSeriesDownloaded>25/07/2017 17:38:27</lastSeriesDownloaded>
 		</series>
 		<series name="Robotech">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,3-15,3-16,3-17,3-18,3-19,3-20,3-21,3-22,3-23,3-24,3-25</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:03</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:36</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Rogue">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-9</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:05</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:40</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 10:28:35</lastSeriesDownloaded>
 		</series>
 		<series name="Salem">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:07</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:52</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="SEAL Team">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13,1-14,1-15,1-16,1-17</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:09</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:23:59</lastUpdateCheck>
 			<lastSeriesDownloaded>29/03/2018 18:46:42</lastSeriesDownloaded>
 		</series>
 		<series name="Second Chance">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:12</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:01</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Sense8">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:14</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:03</lastUpdateCheck>
 			<lastSeriesDownloaded>25/05/2017 18:11:25</lastSeriesDownloaded>
 		</series>
 		<series name="Sleepy Hollow">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:16</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:07</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Star Trek Discovery">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13,1-14,1-15</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:19</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:09</lastUpdateCheck>
 			<lastSeriesDownloaded>13/03/2018 14:35:52</lastSeriesDownloaded>
 		</series>
 		<series name="Star Wars Rebels">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,3-15,3-16,3-17,3-18,3-19,3-20,3-21,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13,4-14,4-15</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:21</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:12</lastUpdateCheck>
 			<lastSeriesDownloaded>07/03/2018 17:13:10</lastSeriesDownloaded>
 		</series>
 		<series name="Stitchers">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:24</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:15</lastUpdateCheck>
 			<lastSeriesDownloaded>15/08/2017 18:16:51</lastSeriesDownloaded>
 		</series>
 		<series name="Stranger Things">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:26</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:19</lastUpdateCheck>
 			<lastSeriesDownloaded>27/10/2017 18:12:49</lastSeriesDownloaded>
 		</series>
 		<series name="SWAT">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13,1-14</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:28</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:26</lastUpdateCheck>
 			<lastSeriesDownloaded>09/03/2018 17:35:14</lastSeriesDownloaded>
 		</series>
 		<series name="Taboo">
 			<episodes>1-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:31</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:29</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 18:55:26</lastSeriesDownloaded>
 		</series>
 		<series name="Taken">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:32</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:34</lastUpdateCheck>
 			<lastSeriesDownloaded>31/03/2018 10:34:34</lastSeriesDownloaded>
 		</series>
 		<series name="Terror in the woods">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:34</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:37</lastUpdateCheck>
 			<lastSeriesDownloaded>10/12/2017 08:34:11</lastSeriesDownloaded>
 		</series>
 		<series name="The 100">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:37</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:39</lastUpdateCheck>
 			<lastSeriesDownloaded>25/05/2017 18:13:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Bastard Executioner">
 			<episodes>1-1,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:40</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:42</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Blacklist">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13,4-14,4-15,4-16,4-17,4-18,4-19,4-20,4-21,4-22,5-1,5-2,5-3,5-4,5-5,5-6,5-7,5-8,5-9,5-10,5-11,5-12,5-13,5-14,5-15,5-16</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:42</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:46</lastUpdateCheck>
 			<lastSeriesDownloaded>15/03/2018 18:20:39</lastSeriesDownloaded>
 		</series>
 		<series name="The Clone Wars">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-1,6-2,6-3,6-4,6-5,6-6,6-7,6-8,6-9,6-10,6-11,6-12,6-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:49</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:24:54</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>		
 		<series name="The Curse of Civil War Gold">
-			<episodes>1-1,1-2,1-3,1-4</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:51</lastUpdateCheck>
-			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
+			<episodes>1-1,1-2,1-3,1-4,1-5</episodes>
+			<lastUpdateCheck>04/04/2018 17:25:09</lastUpdateCheck>
+			<lastSeriesDownloaded>04/04/2018 17:25:09</lastSeriesDownloaded>
 		</series>
 		<series name="The Curse of Oak Island">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13,4-14,4-15,4-16,5-1,5-2,5-3,5-4,5-5,5-6,5-7,5-8,5-9,5-10,5-11,5-12,5-13,5-14,5-15,5-16,5-17,5-18</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:53</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:12</lastUpdateCheck>
 			<lastSeriesDownloaded>07/03/2018 17:13:41</lastSeriesDownloaded>
 		</series>
 		<series name="The Dead Files">
-			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-*,10-1,10-2,10-3,10-4,10-5,10-6,10-7,10-8,10-9,10-10,10-11,10-12,10-13,11-1,11-2,11-3,11-4,11-5,11-6,11-7</episodes>
-			<lastUpdateCheck>02/04/2018 17:35:56</lastUpdateCheck>
-			<lastSeriesDownloaded>18/03/2018 16:16:50</lastSeriesDownloaded>
+			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-*,10-1,10-2,10-3,10-4,10-5,10-6,10-7,10-8,10-9,10-10,10-11,10-12,10-13,11-1,11-2,11-3,11-4,11-5,11-6,11-7,11-8</episodes>
+			<lastUpdateCheck>04/04/2018 17:25:15</lastUpdateCheck>
+			<lastSeriesDownloaded>03/04/2018 20:35:04</lastSeriesDownloaded>
 		</series>
 		<series name="The Expanse">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:00</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:17</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Ghost in my Child">
 			<episodes>1-1,1-2,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:02</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:20</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Gifted">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:04</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:23</lastUpdateCheck>
 			<lastSeriesDownloaded>16/01/2018 17:11:12</lastSeriesDownloaded>
 		</series>
 		<series name="The Last Days of">
 			<episodes>1-1,1-2,1-3,1-5,1-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:07</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:26</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Last Kingdom">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:11</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:29</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Last Ship">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:13</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:32</lastUpdateCheck>
 			<lastSeriesDownloaded>09/10/2017 18:14:15</lastSeriesDownloaded>
 		</series>
 		<series name="The Leftovers">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:19</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:35</lastUpdateCheck>
 			<lastSeriesDownloaded>05/06/2017 17:13:32</lastSeriesDownloaded>
 		</series>
 		<series name="The Magicians US">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:22</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:38</lastUpdateCheck>
 			<lastSeriesDownloaded>29/03/2018 18:47:45</lastSeriesDownloaded>
 		</series>
 		<series name="The Messengers">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:25</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:42</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Mist">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:27</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:49</lastUpdateCheck>
 			<lastSeriesDownloaded>25/08/2017 18:21:11</lastSeriesDownloaded>
 		</series>
 		<series name="The Musketeers">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:30</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:54</lastUpdateCheck>
 			<lastSeriesDownloaded>15/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The OA">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:32</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:25:58</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Orville">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:36</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:01</lastUpdateCheck>
 			<lastSeriesDownloaded>08/12/2017 18:37:23</lastSeriesDownloaded>
 		</series>
 		<series name="The Originals">
 			<episodes>1-*,2-*,3-*,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:40</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:03</lastUpdateCheck>
 			<lastSeriesDownloaded>24/06/2017 07:20:23</lastSeriesDownloaded>
 		</series>
 		<series name="The Returned">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,2-1</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:44</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:05</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Strain">
 			<episodes>1-*,2-*,3-*,4-*</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:47</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:11</lastUpdateCheck>
 			<lastSeriesDownloaded>22/10/2017 16:10:46</lastSeriesDownloaded>
 		</series>
 		<series name="The Suspicions Of Mr Whicher">
 			<episodes>1-1,1-2,2-1,2-2</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:49</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:14</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The Walking Dead">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-1,7-2,7-3,7-4,7-5,7-6,7-7,7-8,7-9,7-10,7-11,7-12,7-13,7-14,7-15,7-16,8-1,8-2,8-3,8-4,8-5,8-6,8-7,8-8,8-9,8-10,8-11,8-12,8-13,8-14</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:53</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:19</lastUpdateCheck>
 			<lastSeriesDownloaded>02/04/2018 11:37:31</lastSeriesDownloaded>
 		</series>
 		<series name="The Whispers">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:56</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:22</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="The X Files">
 			<episodes>1-*,2-*,3-*,4-*,5-*,6-*,7-*,8-*,9-*,10-*,11-1,11-2,11-3,11-4,11-5,11-6,11-7,11-8,11-9,11-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:36:59</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:25</lastUpdateCheck>
 			<lastSeriesDownloaded>10/11/2017 17:22:56</lastSeriesDownloaded>
 		</series>
 		<series name="Timeless">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13,1-14,1-15,1-16,2-1,2-2,2-3</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:03</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:28</lastUpdateCheck>
 			<lastSeriesDownloaded>26/03/2018 17:37:04</lastSeriesDownloaded>
 		</series>
 		<series name="Training Day">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:06</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:30</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 10:39:50</lastSeriesDownloaded>
 		</series>
 		<series name="Travelers">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:09</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:33</lastUpdateCheck>
 			<lastSeriesDownloaded>22/12/2017 17:40:56</lastSeriesDownloaded>
 		</series>
 		<series name="Tripped">
 			<episodes>1-1,1-2,1-3,1-4</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:11</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:36</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="True Detective">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:13</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:38</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Van Helsing">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10,2-11,2-12,2-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:15</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:41</lastUpdateCheck>
 			<lastSeriesDownloaded>06/01/2018 17:40:18</lastSeriesDownloaded>
 		</series>
 		<series name="Vikings">
 			<episodes>1-*,2-*,3-*,4-*,5-1,5-2,5-3,5-4,5-5,5-6,5-7,5-8,5-9,5-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:18</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:45</lastUpdateCheck>
 			<lastSeriesDownloaded>25/01/2018 18:11:26</lastSeriesDownloaded>
 		</series>
 		<series name="Wayward Pines">
 			<episodes>1-*,2-1,2-2,2-3,2-4,2-5,2-6,2-7,2-8,2-9,2-10</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:21</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:48</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="When Ghosts Attack">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:22</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:53</lastUpdateCheck>
 			<lastSeriesDownloaded>21/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 		<series name="Z Nation">
 			<episodes>1-*,2-*,3-1,3-2,3-3,3-4,3-5,3-6,3-7,3-8,3-9,3-10,3-11,3-12,3-13,3-14,4-1,4-2,4-3,4-4,4-5,4-6,4-7,4-8,4-9,4-10,4-11,4-12,4-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:25</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:56</lastUpdateCheck>
 			<lastSeriesDownloaded>16/12/2017 21:01:52</lastSeriesDownloaded>
 		</series>
 		<series name="Zapped">
 			<episodes>1-1,1-2,1-3,2-1,2-2,2-3,2-4,2-5,2-6</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:29</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:26:58</lastUpdateCheck>
 			<lastSeriesDownloaded>11/11/2017 07:38:56</lastSeriesDownloaded>
 		</series>
 		<series name="Zero Hour">
 			<episodes>1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-12,1-13</episodes>
-			<lastUpdateCheck>02/04/2018 17:37:32</lastUpdateCheck>
+			<lastUpdateCheck>04/04/2018 17:27:01</lastUpdateCheck>
 			<lastSeriesDownloaded>14/05/2017 09:07:37</lastSeriesDownloaded>
 		</series>
 	</tvseries>

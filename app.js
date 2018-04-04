@@ -1,1 +1,1 @@
-require('./src/loader').run();
+require('./src/loader-async').run();
